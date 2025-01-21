@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronni\\source\\repos\\C-Intermediate\\SolidPrinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5604057-DA18-4FCB-9971-47A98E2DF748}|Liskov\\Liskov.csproj|c:\\users\\ronni\\source\\repos\\c-intermediate\\solidprinciples\\liskov\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5604057-DA18-4FCB-9971-47A98E2DF748}|Liskov\\Liskov.csproj|solutionrelative:liskov\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5604057-DA18-4FCB-9971-47A98E2DF748}|Liskov\\Liskov.csproj|c:\\users\\ronni\\source\\repos\\c-intermediate\\solidprinciples\\liskov\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5604057-DA18-4FCB-9971-47A98E2DF748}|Liskov\\Liskov.csproj|solutionrelative:liskov\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5604057-DA18-4FCB-9971-47A98E2DF748}|Liskov\\Liskov.csproj|c:\\users\\ronni\\source\\repos\\c-intermediate\\solidprinciples\\liskov\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5604057-DA18-4FCB-9971-47A98E2DF748}|Liskov\\Liskov.csproj|solutionrelative:liskov\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5604057-DA18-4FCB-9971-47A98E2DF748}|Liskov\\Liskov.csproj|c:\\users\\ronni\\source\\repos\\c-intermediate\\solidprinciples\\liskov\\ivehiculoconmaletero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5604057-DA18-4FCB-9971-47A98E2DF748}|Liskov\\Liskov.csproj|solutionrelative:liskov\\ivehiculoconmaletero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVehiculoConMaletero.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\Source\\Repos\\C-Intermediate\\SolidPrinciples\\Liskov\\IVehiculoConMaletero.cs",
+              "RelativeDocumentMoniker": "Liskov\\IVehiculoConMaletero.cs",
+              "ToolTip": "C:\\Users\\ronni\\Source\\Repos\\C-Intermediate\\SolidPrinciples\\Liskov\\IVehiculoConMaletero.cs",
+              "RelativeToolTip": "Liskov\\IVehiculoConMaletero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:56:50.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\C-Intermediate\\SolidPrinciples\\Liskov\\Coche.cs",
+              "RelativeDocumentMoniker": "Liskov\\Coche.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\C-Intermediate\\SolidPrinciples\\Liskov\\Coche.cs",
+              "RelativeToolTip": "Liskov\\Coche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:56:38.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\C-Intermediate\\SolidPrinciples\\Liskov\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Liskov\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\C-Intermediate\\SolidPrinciples\\Liskov\\Vehiculo.cs",
+              "RelativeToolTip": "Liskov\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:56:36.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\ronni\\source\\repos\\C-Intermediate\\SolidPrinciples\\Liskov\\Bicicleta.cs",
+              "RelativeDocumentMoniker": "Liskov\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\ronni\\source\\repos\\C-Intermediate\\SolidPrinciples\\Liskov\\Bicicleta.cs",
+              "RelativeToolTip": "Liskov\\Bicicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:56:25.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
